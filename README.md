@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reham Issa</h1>
-<h3 align="center">A passionate UI/UX designer and a future Flutter Mobile Apps Developer from Palestine.</h3>
+<h3 align="center">A passionate UI/UX designer and Flutter Mobile Apps Developer.</h3>
 
 - 🌱 I’m currently aims to learn **mobile apps development using Flutter framework**
 
