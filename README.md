@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reham Issa</h1>
-<h3 align="center">A passionate UI designer and Flutter Mobile Apps Developer.</h3>
+<h3 align="center">Aspiring Mobile Apps Developer.</h3>
 
-- 🌱 I aim to learn **mobile app development using the Flutter framework**. Although I learned web development in college, my passion lies in mobile application development.
+- 🌱 I'm a **mobile app developer using the Flutter framework** with a foundation in UI/UX design.
 
-- 👨‍💻 All of my UI/UX projects are available at [https://www.behance.net/rehameissa1](https://www.behance.net/rehameissa1)
+- 👨‍💻 My UI/UX projects are available at [https://www.behance.net/rehameissa1](https://www.behance.net/rehameissa1)
 
 - 📫 How to reach me **rehamissa.tech@gmail.com**
 
